@@ -1,6 +1,6 @@
-# CaraMarket
+# CaraMart
 
-Welcome to CaraMarket, your go-to destination for trendy and eco-friendly shopping! This repository houses the codebase for my first e-commerce website built using a modern tech stack.
+Welcome to CaraMart, your go-to destination for trendy and eco-friendly shopping! This repository houses the codebase for my first e-commerce website built using a modern tech stack.
 
 ## Tech Stack
 - **JavaScript**: Powering dynamic and interactive features.
